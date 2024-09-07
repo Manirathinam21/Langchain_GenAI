@@ -1,5 +1,9 @@
 langchain
+langchain_community
+langgraph
+langserve[all]
 python-dotenv
+tavily-python
 openai
 huggingface_hub
 langchain_google_genai
